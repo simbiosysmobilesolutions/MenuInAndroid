@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.simbiosyscorp.tutorials.menus.DynamicallyAddedOptionsMenu">
+    <item
+        android:id="@+id/action_cut"
+        android:orderInCategory="100"
+        android:title="@string/action_cut"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_copy"
+        android:orderInCategory="200"
+        android:title="@string/action_copy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_select"
+        android:orderInCategory="300"
+        android:title="@string/action_select"
+        app:showAsAction="never" />
+
+</menu>

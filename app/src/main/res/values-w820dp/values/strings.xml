@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MenuPractice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="file">File</string>
+    <string name="edit">Edit</string>
+    <string name="view">View</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="displayText">This screen has Dynamically added Options Menu items</string>
+    <string name="displayText2">This screen has Statically added Options Menu items</string>
+    <string name="title_activity_dynamically_added_context_menu">DynamicallyAddedContextMenu
+    </string>
+    <string name="displayText3">Long-Press this TextView to activate Context Menu</string>
+    <string name="action_select">Select</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_cut">Cut</string>
+    <string name="title_activity_statically_created_context_menu_options">
+        StaticallyCreatedContextMenuOptions
+    </string>
+    <string name="title_activity_dynamically_added_sub_menu">DynamicallyAddedSubMenu</string>
+    <string name="displayText4">This screen has a dynamically added Submenu in its Options Menu</string>
+    <string name="title_activity_statically_added_sub_menu">StaticallyAddedSubMenu</string>
+    <string name="displayText5">This screen has a Statically added SubMenu in its Options Menu</string>
+
+</resources>
